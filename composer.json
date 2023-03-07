@@ -1,0 +1,16 @@
+{
+	"name": "rana/postkit-blocks-pro",
+	"description": "Includes all pro blocks for postkit",
+	"autoload": {
+		"psr-4": {
+			"PostkitBlocksPro\\": "app/"
+		}
+	},
+	"authors": [
+		{
+			"name": "ZakariaBDT",
+			"email": "zakaria@bdthemes.com"
+		}
+	],
+	"require": {}
+}
