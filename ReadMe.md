@@ -1,3 +1,3 @@
-# Postkit Blocks
+# Postkit Blocks Pro
 
 **We are under development**
